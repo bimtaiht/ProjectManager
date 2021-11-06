@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.dfcf1809.chunk.css",
-    "main.js": "/static/js/main.3f18e7f7.chunk.js",
-    "main.js.map": "/static/js/main.3f18e7f7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1ad8fdd3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1ad8fdd3.js.map",
-    "static/css/2.76b194f8.chunk.css": "/static/css/2.76b194f8.chunk.css",
-    "static/js/2.70cad695.chunk.js": "/static/js/2.70cad695.chunk.js",
-    "static/js/2.70cad695.chunk.js.map": "/static/js/2.70cad695.chunk.js.map",
-    "static/js/3.2e7ad21c.chunk.js": "/static/js/3.2e7ad21c.chunk.js",
-    "static/js/3.2e7ad21c.chunk.js.map": "/static/js/3.2e7ad21c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.76b194f8.chunk.css.map": "/static/css/2.76b194f8.chunk.css.map",
-    "static/css/main.dfcf1809.chunk.css.map": "/static/css/main.dfcf1809.chunk.css.map",
-    "static/js/2.70cad695.chunk.js.LICENSE.txt": "/static/js/2.70cad695.chunk.js.LICENSE.txt"
+    "main.css": "/thinkrich/static/css/main.dfcf1809.chunk.css",
+    "main.js": "/thinkrich/static/js/main.6a561c68.chunk.js",
+    "main.js.map": "/thinkrich/static/js/main.6a561c68.chunk.js.map",
+    "runtime-main.js": "/thinkrich/static/js/runtime-main.143b5ff8.js",
+    "runtime-main.js.map": "/thinkrich/static/js/runtime-main.143b5ff8.js.map",
+    "static/css/2.76b194f8.chunk.css": "/thinkrich/static/css/2.76b194f8.chunk.css",
+    "static/js/2.fbf1e23a.chunk.js": "/thinkrich/static/js/2.fbf1e23a.chunk.js",
+    "static/js/2.fbf1e23a.chunk.js.map": "/thinkrich/static/js/2.fbf1e23a.chunk.js.map",
+    "static/js/3.2e7ad21c.chunk.js": "/thinkrich/static/js/3.2e7ad21c.chunk.js",
+    "static/js/3.2e7ad21c.chunk.js.map": "/thinkrich/static/js/3.2e7ad21c.chunk.js.map",
+    "index.html": "/thinkrich/index.html",
+    "static/css/2.76b194f8.chunk.css.map": "/thinkrich/static/css/2.76b194f8.chunk.css.map",
+    "static/css/main.dfcf1809.chunk.css.map": "/thinkrich/static/css/main.dfcf1809.chunk.css.map",
+    "static/js/2.fbf1e23a.chunk.js.LICENSE.txt": "/thinkrich/static/js/2.fbf1e23a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1ad8fdd3.js",
+    "static/js/runtime-main.143b5ff8.js",
     "static/css/2.76b194f8.chunk.css",
-    "static/js/2.70cad695.chunk.js",
+    "static/js/2.fbf1e23a.chunk.js",
     "static/css/main.dfcf1809.chunk.css",
-    "static/js/main.3f18e7f7.chunk.js"
+    "static/js/main.6a561c68.chunk.js"
   ]
 }
